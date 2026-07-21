@@ -1,0 +1,4 @@
+# Local install artifacts - not part of the lab documentation
+awscliv2.zip
+session-manager-plugin.deb
+aws/
